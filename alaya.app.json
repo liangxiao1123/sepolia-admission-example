@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "appId": "0x8c81bb590cb0bec0adb7d0d4f1811d76ba6d295d8a76512ce6ace919f1fe574f",
+  "name": "Sepolia Admission Example",
+  "tagline": "Reference third-party app proving the AlayaOracle admission journey on Sepolia.",
+  "description": "A minimal reference app (ExampleAlayaApp on the official SDK v1) pinned as public source for the AlayaOracle permissionless admission example on Sepolia.",
+  "iconId": "hexagon",
+  "color": "accent",
+  "chainId": 11155111,
+  "contracts": { "app": "0x56ea5F82EB3C885E74E660B139ef4CBFd6537Bb9" },
+  "source": {
+    "githubUrl": "https://github.com/liangxiao1123/sepolia-admission-example",
+    "commit": "eaded06391b53fe4075a7449cf686f4bee2192bb",
+    "license": "MIT",
+    "verifiedSourceRefs": ["https://repo.sourcify.dev/11155111/0x56ea5F82EB3C885E74E660B139ef4CBFd6537Bb9"]
+  },
+  "runner": { "serviceUrl": "https://43.135.181.175.sslip.io:80/third-party" }
+}
